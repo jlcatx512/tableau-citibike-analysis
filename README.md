@@ -2,7 +2,7 @@
 December 15, 2019
 
 ## OVERVIEW ##
-* [Analysis of Citi Bike NYC Trip Data 2018](https://public.tableau.com/profile/jlcatx512#!/vizhome/NYC_Citi_Bike_Trip_Data_2018_Analysis/2018NYCCitiBike)
+* [Tableau Public - Analysis of Citi Bike NYC Trip Data 2018](https://public.tableau.com/profile/jlcatx512#!/vizhome/NYC_Citi_Bike_Trip_Data_2018_Analysis/2018NYCCitiBike)
 * I analyzed 2018 data because it was the most recent year with all 12 months.
 * The original data can be download [here](https://www.citibikenyc.com/system-data).
 * I cleaned and pre-processed the data in Google Colab because cleaning data in Tableau is a total pain in the ass.
